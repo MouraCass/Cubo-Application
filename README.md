@@ -13,10 +13,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [React hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Html,Css,Javascript](https://www.w3schools.com/)
 - [Styled Components](https://styled-components.com/)
-- [TMDB-API](https://developers.themoviedb.org/3/getting-started/introduction)
-
-
-
 
  
 #
